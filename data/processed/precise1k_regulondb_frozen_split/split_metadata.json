@@ -1,0 +1,10 @@
+{
+    "random_seed": 42,
+    "source_dataset": "PRECISE-1K + RegulonDB",
+    "n_expression_genes": 4257,
+    "n_valid_regulondb_edges": 7835,
+    "n_prior_edges": 4701,
+    "n_hidden_test_edges": 3134,
+    "date": "2026-09-02",
+    "script_version": "1.0"
+}

@@ -1,0 +1,9 @@
+{
+    "dataset_name": "PRECISE-1K_Ecoli",
+    "expr_path": "data/external/precise1k_expr.tsv",
+    "gold_path": "data/external/ecoli_regulondb.tsv",
+    "ts_path": "",
+    "denoise_method": "rpca",
+    "top_k": 30,
+    "seed": 42
+}

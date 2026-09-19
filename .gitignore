@@ -1,0 +1,13 @@
+# Data directories
+data/external/
+data/raw/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local outputs
+results/networks/
+results/metrics/
+results/figures/
+scratch/

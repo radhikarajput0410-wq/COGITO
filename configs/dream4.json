@@ -1,0 +1,9 @@
+{
+    "dataset_name": "DREAM4_Size100",
+    "expr_path": "data/raw/dream4/insilico_size100_1_multifactorial.tsv",
+    "gold_path": "data/raw/dream4/insilico_size100_1_goldstandard.tsv",
+    "ts_path": "",
+    "denoise_method": "none",
+    "top_k": 30,
+    "seed": 42
+}

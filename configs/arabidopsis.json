@@ -1,0 +1,9 @@
+{
+    "dataset_name": "Arabidopsis_thaliana",
+    "expr_path": "data/external/arabidopsis_expr.tsv",
+    "gold_path": "data/external/arabidopsis_plantregmap_priors.tsv",
+    "ts_path": "",
+    "denoise_method": "dae",
+    "top_k": 30,
+    "seed": 42
+}
